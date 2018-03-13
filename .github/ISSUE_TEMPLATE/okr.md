@@ -1,7 +1,3 @@
-[One line summary goes here]
-
-### Description
-
 [A more verbose description goes here]
 
 ### Tracking bugs
